@@ -2,7 +2,7 @@
 
 Some of my Bitwig presets, clips and projects which might be worth sharing.
 
-### 🔊 [Spotify] / [Apple Music] / [Bandcamp] / [Soundcloud]
+#### 🔊 [Spotify] / [Apple Music] / [Bandcamp] / [Soundcloud]
 
 ## 📋 Presets
 
@@ -43,6 +43,9 @@ Could be named monophonic brush tool.
 
 
 [Spotify]: https://open.spotify.com/artist/2jOQrKX3rRoZORPfFcXaYU
+
 [Apple Music]: https://music.apple.com/us/artist/loowps/1326334750
+
 [Bandcamp]: https://loowps.bandcamp.com
+
 [Soundcloud]: https://soundcloud.com/loowps
