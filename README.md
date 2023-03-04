@@ -38,11 +38,8 @@ can lead to experimental / free form rhythms hence the cringe name 'flex sequenc
 should be added to the target tracks. Sadly a bug which offsets the automation on load prevents storing the sequencer
 setup group as bwscene.
 
-My related bitwish: pen tool in piano roll should add a mode which allows drawing in notes that way - mouse down
-causes a new note which last as long the mouse is pressed or the mouse y position is changed to a new semitone which
-adds a new note and so on. Shift modifier key could then be used to switch between quantized / not quantized drawing.
-Could be named monophonic brush tool.
-
+If you have a plugin like phase plant that allows outputting a curve modulation signal as audio to bitwig, you can
+replace the automation with an audio rate modulator modulating a value knob inside the grid instead.
 
 [Spotify]: https://open.spotify.com/artist/2jOQrKX3rRoZORPfFcXaYU
 
