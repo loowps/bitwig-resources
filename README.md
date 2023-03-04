@@ -4,6 +4,8 @@ Some of my Bitwig presets, clips and projects which might be worth sharing.
 
 #### 🔊 [Spotify] / [Apple Music] / [Bandcamp] / [Soundcloud]
 
+---
+
 ## 📋 Presets
 
 ### [Note Range (Download)](https://github.com/loowps/bitwig-resources/raw/main/Bitwig-v4.2/Note%20Range.bwpreset)
