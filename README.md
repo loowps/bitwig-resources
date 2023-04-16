@@ -22,29 +22,18 @@ and adapted to your needs.
 
 ### [Loowps Sequencer (Download)](https://github.com/loowps/bitwig-resources/raw/main/Bitwig-v4.2/Loowps%20Sequencer.bwpreset)
 
-A mono sequencer with variable note length, probability, delay/shuffle, gate length, pitch, pitch lag, velocity and 16
-midi CC values.
+A monophonic sequencer based on steps modulators with variable note length, probability, delay/shuffle, gate length, 
+pitch, pitch lag, velocity and 16 midi CC values.
 
-## 📋 Projects
+### [Draw SEQ (Download)](https://github.com/loowps/bitwig-resources/raw/main/Bitwig-v5.0/Draw%20SEQ.bwpreset)
 
-### [Flex Sequencer (Download)](https://github.com/loowps/bitwig-resources/raw/main/Bitwig-v4.3/Flex%20Sequencer%20(CC%20to%20Notes)%20-%20Loowps.bwproject)
+A monophonic sequencer that uses a curve modulator as its note source. Values > 0 cause a note on event, 
+semitone changes re-trigger the current note with the new pitch and values == 0 lead to note off events.
 
-An example project which provides a 6x monophonic track sequencer that uses cc automation drawn in by pen as its note
-source. Automation values > 0 cause a note on event, semitone changes re-trigger the current note with the new pitch and
-values == 0 lead to note off events.
-
-Turning quantization off and altering the pattern lengths of the different clips
-can lead to experimental / free form rhythms hence the cringe name 'flex sequencer'. Further parameter automation
-should be added to the target tracks. Sadly a bug which offsets the automation on load prevents storing the sequencer
-setup group as bwscene.
-
-If you have a plugin like phase plant that allows outputting a curve modulation signal as audio to bitwig, you can
-replace the automation with an audio rate modulator modulating a value knob inside the grid instead.
+Turning quantization off and altering the curve speed of different sequencers
+can lead to experimental / free form rhythms.
 
 [Spotify]: https://open.spotify.com/artist/2jOQrKX3rRoZORPfFcXaYU
-
 [Apple Music]: https://music.apple.com/us/artist/loowps/1326334750
-
 [Bandcamp]: https://loowps.bandcamp.com
-
 [Soundcloud]: https://soundcloud.com/loowps
