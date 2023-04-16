@@ -1,6 +1,6 @@
-# Loowps Bitwig Presets & Projects
+# Loowps Bitwig Presets
 
-Some of my Bitwig presets, clips and projects which might be worth sharing.
+Some of my Bitwig presets which might be worth sharing.
 
 #### 🔊 [Spotify] / [Apple Music] / [Bandcamp] / [Soundcloud]
 
