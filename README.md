@@ -14,6 +14,12 @@ A Note Grid preset which allows you to limit the input notes to a user defined r
 and the upper limit by Max. Notes which exceed the limits are fold back by an octave +/-. You can change the priority
 of the calculation by toggling the Min->Max button.
 
+### [Gate Filter (Download)](https://github.com/loowps/bitwig-resources/raw/main/Bitwig-v5.3/Gate%20Filter.bwpreset)
+
+A Note Grid preset that blocks incoming gate events when a gate event is present in the note sidechain. This is a very
+simple preset, so sometimes you need to play around with order of source channel and the channel this preset is on that
+gate events are blocked reliably.
+
 ### [Seeded Random Melody (Download)](https://github.com/loowps/bitwig-resources/raw/main/Bitwig-v4.2/Seeded%20Random%20Melody.bwpreset)
 
 A Note Grid Preset which uses seeded pseudo random numbers to generate a melody with random pitch, velocity, step
@@ -22,12 +28,12 @@ and adapted to your needs.
 
 ### [Loowps Sequencer (Download)](https://github.com/loowps/bitwig-resources/raw/main/Bitwig-v4.2/Loowps%20Sequencer.bwpreset)
 
-A monophonic sequencer based on steps modulators with variable note length, probability, delay/shuffle, gate length, 
+A monophonic sequencer based on steps modulators with variable note length, probability, delay/shuffle, gate length,
 pitch, pitch lag, velocity and 16 midi CC values.
 
 ### [Draw SEQ (Download)](https://github.com/loowps/bitwig-resources/raw/main/Bitwig-v5.0/Draw%20SEQ.bwpreset)
 
-A monophonic sequencer that uses a curve modulator as its note source. Values > 0 cause a note on event, 
+A monophonic sequencer that uses a curve modulator as its note source. Values > 0 cause a note on event,
 semitone changes re-trigger the current note with the new pitch and values == 0 lead to note off events.
 
 Turning quantization off and altering the curve speed of different sequencers
